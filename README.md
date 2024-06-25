@@ -8,14 +8,14 @@ The Restaurant Management System is a console-based application that allows user
 - Log In: Existing users can log in to their accounts.
 - Order Food: Logged-in users can order food from the restaurant.
 ### Admin
--Log In: Admins can log in using predefined credentials.
--Manage Users: Admins can add, display, edit, and delete user information.
--Manage Employees: Admins can add, display, and delete employee information.
--Manage Menu: Admins can add, display, edit, and delete menu items.
--Restaurant Info: Admins can view restaurant timings and menu.
+- Log In: Admins can log in using predefined credentials.
+- Manage Users: Admins can add, display, edit, and delete user information.
+- Manage Employees: Admins can add, display, and delete employee information.
+- Manage Menu: Admins can add, display, edit, and delete menu items.
+- Restaurant Info: Admins can view restaurant timings and menu.
 ### General
 -View Info: Users can view the restaurant menu and timings.
 ## Installations
-git clone https://github.com/123TANUSHARMA/estaurantManagement.git
-just run the code on the terminal
+- git clone https://github.com/123TANUSHARMA/estaurantManagement.git
+- just run the code on the terminal
 
